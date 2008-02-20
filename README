@@ -1,0 +1,12 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2160
+
+The package includes:
+
+    vft.vim - the library
+    vft-test.vim - simple plugin the utilizes the library
+
+Screenshot of vft-test in action can be found here:
+
+   http://javascript.cooldev.com/alx/vft.png
+
+Lots of work yet to be done, but the library has minimal yet complete set of features that should simplify creation of simple forms.
